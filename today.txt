@@ -1,0 +1,7 @@
+1. App.js => Header, Navbar, 
+
+Build Checkout/Payment page with Stripe Frontend
+DEploy Cloud function to process payments
+Build the "my orders" page
+Store orders for logged in user!
+React Flip move animations

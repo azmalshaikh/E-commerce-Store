@@ -1,0 +1,16 @@
+.navbar {
+    display: flex;
+    align-items: center;
+    background-color: #232f3f;
+    padding-left: 10px;
+}
+
+.navbar :hover {
+    text-decoration: underline;
+}
+
+.navbar__option {
+    margin: 10px 15px 15px 12px;
+    color: white;
+    cursor: pointer;
+}
